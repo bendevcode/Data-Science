@@ -1,2 +1,2 @@
 # Data-Science
-This repo contains codes from my data science practice
+I will be working on real world datasets wherein I will be performing analysis and building machine learning models based on the features in the dataset.
