@@ -1,2 +1,4 @@
+Cheers to data analysis and model building!
+Personal works included.
 # Data-Science
-I will be working on real world datasets wherein analysis will be performed and machine learning models will be built based on the features in the dataset.
+
